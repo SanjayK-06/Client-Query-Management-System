@@ -47,7 +47,7 @@ CLIENT_QUERY_MANAGEMENT_SYSTEM
 ├── data/
 │   └── synthetic_client_queries.csv
 │   │
-│   └── Screen_print & PPT 
+│   └── Screen_print & PPT
 │
 └── Notebook/
     └── cqms.ipynb           → Data analysis / experimentation notebook
