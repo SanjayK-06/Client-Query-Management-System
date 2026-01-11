@@ -32,7 +32,7 @@ Created by: Sanjay Kannan
 
 ⦁	PostgreSQL-backed storage
 
-⦁	SHA-256 password hashing
+⦁	hashlib password hashing
 
 
 📂 Project Structure
