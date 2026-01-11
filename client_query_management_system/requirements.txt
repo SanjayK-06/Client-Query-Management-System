@@ -1,7 +1,0 @@
-streamlit
-psycopg2-binary
-pandas
-bcrypt
-python-dotenv
-numpy
-matplotlib
